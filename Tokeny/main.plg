@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Maks\Desktop\Tokeny\main.uvproj
+Project File Date:  04/28/2026
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+compiling string.c...
+linking...
+Program Size: Code=1604 RO-data=32 RW-data=40 ZI-data=1280  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 0 Warning(s).
+Clean started: Project: 'main'
+   deleting intermediate output files for target 'Target 1'
